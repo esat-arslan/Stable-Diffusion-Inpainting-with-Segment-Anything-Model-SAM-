@@ -1,0 +1,34 @@
+gradio==5.9.1
+gradio_client==1.5.2
+huggingface-hub==0.27.0
+matplotlib==3.9.3
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1733416936468/work
+mdurl==0.1.2
+mpmath @ file:///home/conda/feedstock_root/build_artifacts/mpmath_1733302684489/work
+munkres==1.1.4
+nest_asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1733325553580/work
+networkx @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_networkx_1731521053/work
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1733688212962/work/dist/numpy-2.2.0-cp312-cp312-linux_x86_64.whl#sha256=15c9b8971bb70dac3f064564861a70907edee07aed8a71142b6f7877df5ad7ef
+onnx==1.17.0
+onnxruntime==1.20.1
+onnxruntime-gpu @ file:///home/conda/feedstock_root/build_artifacts/onnxruntime_1730052031824/work/build-ci/Release/dist/onnxruntime_gpu-1.19.2-cp312-cp312-linux_x86_64.whl#sha256=331b71a45c8ef098cdf9cbc47588c7f572b54627ffab12661a811aab734a6cbb
+opencv-python==4.10.0
+opencv-python-headless==4.10.0
+orjson==3.10.13
+pandas==2.2.3
+pycocotools==2.0.8
+safetensors==0.4.5
+segment_anything @ git+https://github.com/facebookresearch/segment-anything.git@dca509fe793f601edb92606367a655c15ac00fdf
+setuptools==75.6.0
+tokenizers==0.21.0
+torch @ file:///home/conda/feedstock_root/build_artifacts/libtorch_1730827426462/work
+torchaudio @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_torchaudio_1733695921/work
+torchvision @ file:///home/conda/feedstock_root/build_artifacts/torchvision_1730803519901/work
+tqdm==4.67.1
+transformers==4.47.1
+typer==0.15.1
+tzdata==2024.2
+urllib3==2.3.0
+uvicorn==0.34.0
+websockets==14.1
+wheel==0.45.1
