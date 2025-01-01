@@ -1,6 +1,5 @@
 # Stable-Diffusion-Inpainting-with-Segment-Anything-Model-SAM-
 This project combines the power of Stable Diffusion for high-quality image inpainting with the Segment Anything Model (SAM) for precise object segmentation. The application provides an intuitive user interface, built with Gradio, allowing users to select and edit specific regions of an image seamlessly.
-Features
 
 Object Segmentation with SAM: Use SAM to identify and select specific areas within an image for editing.
     High-Quality Inpainting: Leverage Stable Diffusion to fill or modify the selected regions with realistic and context-aware results.
